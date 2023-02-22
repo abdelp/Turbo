@@ -14,3 +14,13 @@ npx create-turbo@latest
 npx create-turbo@latest
 ```
 
+### 2. Exploring your new repo
+
+**What's considered a _workspace_ in Turbo?**
+
+In Turbo, a folder containing a `package.json` is considered a _workspace_.
+
+### Understanding `packages/ui`
+
+### understanding imports and exports
+
